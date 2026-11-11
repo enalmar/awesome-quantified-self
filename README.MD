@@ -85,6 +85,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [HealthSync](https://healthsync.megabyte.sh/apple-health-app-sync) - Sync selected Apple Health data to a private backend API (iOS).
 - [Bloodboy](https://github.com/ashugaev/bloodboy-biomarkers-tracker) - Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.
 - [LogZero](https://logzero.app) - Private tracker for mood, food, weight, meds, and exercise with a local correlation engine that surfaces relationships between metrics; on-device, no account (iOS).
+- [Health Export Tool](https://apps.apple.com/us/app/health-export-tool/id6832320729) - Export all Apple Health data to one zip: FIT files for workouts, CSV tables for everything else (iOS).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
